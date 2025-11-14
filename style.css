@@ -172,7 +172,7 @@ ul {
   position: relative;
   width: 100%;
   min-height: 903px;
-  background-image: url("/image/banner1.png");
+  background-image: url("image/banner1.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
